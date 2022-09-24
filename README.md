@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/vishvajeet-nimbalkar-5953b3131/" target="_blank"> Vishvajeet Nimbalkar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Power Bi+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=PowerBi+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
