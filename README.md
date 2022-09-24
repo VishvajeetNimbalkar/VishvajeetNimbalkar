@@ -17,8 +17,8 @@
 
 <h3 align="left">My Specialization :</h3>
 <div align="left">
-<img alt="Data Analyst" src="https://img.shields.io/badge/Data_Analyst-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="Statistical Analysis" src="https://img.shields.io/badge/Statistical Analysis-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="Data Analyst" src="https://img.shields.io/badge/Data_Analyst-%23E34F26.svg?style=for-the-badge&logo=Data&logoColor=white"/>
+<img alt="Statistical Analysis" src="https://img.shields.io/badge/Statistical Analysis-%231572B6.svg?style=for-the-badge&logo=Stat&logoColor=white"/> 
 
 </div>
 
