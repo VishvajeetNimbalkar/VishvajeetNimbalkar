@@ -1,11 +1,9 @@
-<h1 align="center">👋 Hi, I'm <a href="https:linkedin.com/in/dnyanesh-nimbalkar-b83b38208/" target="_blank"> Dnyanesh Nimbalkar </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Java+Developer+%3A)" /> </h3>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/vishvajeet-nimbalkar-5953b3131/" target="_blank"> Vishvajeet Nimbalkar </a></h1>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Power Bi+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
 - 💬 Ask me about **Python,R,Power Bi, MySQL,Advanced Excel**
-
-- 👨‍💻 Check out my personal portfolio : **<a href="https://dnyaneshvn.netlify.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
